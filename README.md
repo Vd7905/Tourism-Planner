@@ -1,1 +1,1 @@
-# tourism-planner
+# Tourism-Planner
