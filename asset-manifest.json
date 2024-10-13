@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Vd7905/tourism-planner.git/static/css/main.5105528f.css",
+    "main.js": "/Vd7905/tourism-planner.git/static/js/main.8f883fb5.js",
+    "index.html": "/Vd7905/tourism-planner.git/index.html",
+    "main.5105528f.css.map": "/Vd7905/tourism-planner.git/static/css/main.5105528f.css.map",
+    "main.8f883fb5.js.map": "/Vd7905/tourism-planner.git/static/js/main.8f883fb5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5105528f.css",
+    "static/js/main.8f883fb5.js"
+  ]
+}
